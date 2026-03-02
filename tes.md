@@ -15,8 +15,9 @@ $$
 $$
 \begin{aligned}
 x &= xy \\\\
+me &= kaka \\\\
 y &= bb \\
-z &= kain
+z &= kain \
 b &= gaga
 \end{aligned}
 $$
