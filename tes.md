@@ -11,3 +11,12 @@ $$
 \dot{z} &= -\beta z + xy
 \end{aligned}
 $$
+
+$$
+\begin{aligned}
+x &= xy \\\\
+y &= bb \\
+z &= kain
+b &= gaga
+\end{aligned}
+$$
